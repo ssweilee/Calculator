@@ -5,3 +5,4 @@ A project using JavaScript, HTML, and CSS
 Live Demo
 </a>
 
+<img src="https://github.com/ssweilee/Odin-Project-Calculator/blob/main/Calculator.jpg" style="max-width: 100%;">
