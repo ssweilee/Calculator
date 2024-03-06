@@ -1,8 +1,8 @@
-# Odin-Project-Calculator
-A project using JavaScript, HTML, and CSS
+# Calculator
+A project use JavaScript, HTML, and CSS
 
-<a href="https://ssweilee.github.io/Odin-Project-Calculator/" target="_blank">
+<a href="https://ssweilee.github.io/Calculator/" target="_blank">
 Live Demo
 </a>
 
-<img src="https://github.com/ssweilee/Odin-Project-Calculator/blob/main/Calculator.jpg" style="max-width: 100%;">
+<img src="https://github.com/ssweilee/Calculator/blob/main/Calculator.jpg" style="max-width: 100%;">
