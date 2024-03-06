@@ -1,5 +1,5 @@
 # Calculator
-A project use JavaScript, HTML, and CSS
+A project uses JavaScript, HTML, and CSS
 
 <a href="https://ssweilee.github.io/Calculator/" target="_blank">
 Live Demo
